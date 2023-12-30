@@ -28,7 +28,7 @@ body{
     max-width: 100%;
     width: 350px;
 }
-.progress.container::before{
+.progress-container::before{
     content: '';
     background-color:var(--line-border-empty);
     position: absolute;
